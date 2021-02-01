@@ -8,4 +8,7 @@ list_of_words = [words for words in sentence.split()]
 result = {words: len(words) for words in list_of_words}
 # Write your code below:
 
+# you can also achieve the exercise by doing:
+# result = {word:len(word) for word in sentence.split()}
+
 print(result)
