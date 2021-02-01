@@ -1,2 +1,5 @@
 # List and Dictionary comprehension 🤓
-Good refresher of lists and dictionary comprehension 🥴
+By reviewing this repository, you can learn how to do:
+- Lists comprehension 
+- Dictionary comprehension 🥴 
+- Iterating over pandas dataframes.
